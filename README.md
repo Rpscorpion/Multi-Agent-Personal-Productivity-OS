@@ -2,6 +2,10 @@
 The Multi-Agent Personal Productivity OS is an AI system where specialized agents automate email, calendar, tasks, research, and writing. An orchestrator coordinates them, while memory, MCP integrations, and A2A enable personalization and powerful app connections—saving time by handling routine digital work intelligently.
 
 
+## This section contains **Python code** using the **Google API SDK** (via `google-api-python-client` and `google-auth`) to wire up the Email and Calendar agents for the Personal Productivity OS.
+
+> ⚠️ You will need to add your own Google Cloud project, OAuth credentials, and enable the Gmail & Calendar APIs.
+
 ## Problem Statement
 
 Knowledge workers waste hours on repetitive digital tasks—email triage, meeting scheduling, document drafting, and research—fragmented across apps. This costs productivity, causes context switching, and prevents focus on high-value work. Solving this reduces cognitive load, saves time, and makes personal workflows scalable and consistent.
